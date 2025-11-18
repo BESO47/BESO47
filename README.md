@@ -4,6 +4,10 @@
 <br>
 
 <p>
+      <img src="https://komarev.com/ghpvc/?username=BESO47&style=flat&color=3010A0" style="height:30px; object-fit:contain;"/></a>
+  </p>
+
+<p>
     <a href="#">
       <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/></a> &nbsp;
     <a href="#">
