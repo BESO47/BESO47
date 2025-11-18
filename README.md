@@ -19,7 +19,7 @@
   <p align="left">
     <a href="mailto:omarabbas2005@gmail.com">
       <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
-    <a href="www.linkedin.com/in/beso47/">
+    <a href="https://www.linkedin.com/in/beso47/">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
     <a href="https://codeforces.com/profile/BESO9741">
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="50"/></a> &nbsp;
