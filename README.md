@@ -28,7 +28,7 @@
 ### 🛠️ Top Technical Skills & Tools
 
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react,js,nodejs,mysql,cpp,arduino,python,sqlserver,dapper,redis,postman,swagger,git&perline=7" style="height:170px;"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react,js,nodejs,mysql,cpp,arduino,python,git&perline=7" style="height:115px;"/>
   </p>
 
 ### 🏆 GitHub Trophies
