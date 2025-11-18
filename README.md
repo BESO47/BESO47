@@ -43,12 +43,4 @@
   <img src="https://streak-stats.demolab.com/?user=BESO47&theme=highcontrast" height="125"/>
 </p>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BESO47/BESO47/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BESO47/BESO47/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BESO47/BESO47/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+![Snake Animation](https://github.com/BESO47/BESO47/blob/output/snake-dark.svg)
